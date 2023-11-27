@@ -24,8 +24,8 @@ Build a  website to showcase the following:
 
 
 
-## Homepage visuals
+## Screen Shots
+![Alt text](image.png)
 
+![Alt text](image-2.png)
 
-
-## Skill set visuals
