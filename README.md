@@ -12,7 +12,7 @@ This was a website built to showcase my technical skills, web design skills.
 Build a  website to showcase the following:
 * My technical skill set
 * My web design skill set
-* My projects
+*Screen shots
 
 ### Technologies Used
 
@@ -22,10 +22,13 @@ Build a  website to showcase the following:
 * GitHub
 
 
-
+## Usage
+you can view the landing page and contact details on :https://eampofu.github.io/portfolio-for-eddington/
 
 ## Screen Shots
 ![Alt text](image.png)
 
 ![Alt text](image-2.png)
+# Landing Page
+![Alt text](image-3.png)
 
