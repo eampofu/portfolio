@@ -205,7 +205,7 @@ text-decoration: none;
 .zoom:hover {
   transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
-/* media query for larger screens */
+
 
 @media only screen and (max-width:800px) {
   .portfolio-parent {
